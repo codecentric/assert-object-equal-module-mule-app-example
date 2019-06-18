@@ -1,0 +1,18 @@
+{
+    "name": "Peter Pan",
+    "profession": "Wizard",
+    "addresses": [
+        {
+            "street": "Elm Street",
+            "timestamp": 1234,
+            "city": "New York",
+            "country": "United States"
+        },
+        {
+            "timestamp": 1235,
+            "street": "Hochstraße",
+            "city": "Solingen",
+            "country": "Germany"
+        }
+    ]
+}
